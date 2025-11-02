@@ -71,6 +71,27 @@ img {
   gap: 0.75rem;
 }
 
+.blog-preview-card__published-date {
+  font-family: var(--font-family-medium);
+  font-size: clamp(0.75rem, 2.5vw, 0.875rem);
+  line-height: 1.5;
+  color: var(--color-gray-950);
+}
+
+.blog-preview-card__title {
+  font-family: var(--font-family-extrabold);
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  line-height: 1.5;
+  color: var(--color-gray-950);
+}
+
+.blog-preview-card__description {
+  font-family: var(--font-family-medium);
+  font-size: clamp(0.875rem, 2.5vw, 1rem);
+  line-height: 1.5;
+  color: var(--color-gray-500);
+}
+
 /* MARK: badge */
 .badge {
   padding: 0.25rem 0.75rem;
