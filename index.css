@@ -50,6 +50,8 @@ img {
 
 /* MARK: blog-preview-card */
 .blog-preview-card {
+  display: grid;
+  gap: 1.5rem;
   background-color: var(--color-white);
   box-shadow: 0.5rem 0.5rem 0 0 var(--color-gray-950),
     0 0 0 0.0625rem var(--color-gray-950);
