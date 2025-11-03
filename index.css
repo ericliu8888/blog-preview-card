@@ -87,6 +87,16 @@ img {
   color: var(--color-gray-950);
 }
 
+.blog-preview-card__link {
+  text-decoration: none;
+  color: var(--color-gray-950);
+  transition: color 0.3s ease;
+}
+
+.blog-preview-card__link:hover {
+  color: var(--color-yellow);
+}
+
 .blog-preview-card__description {
   font-family: var(--font-family-medium);
   font-size: clamp(0.875rem, 2.5vw, 1rem);
